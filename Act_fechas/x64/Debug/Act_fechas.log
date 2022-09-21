@@ -1,0 +1,9 @@
+﻿  Fechas.cpp
+C:\Users\W10\Downloads\Act_fechas-master\Act_fechas-master\Act_fechas\Fechas.h(76,13): warning C4129: 'm': secuencia de escape de carácter no reconocida
+C:\Users\W10\Downloads\Act_fechas-master\Act_fechas-master\Act_fechas\Fechas.h(79,13): warning C4129: 'm': secuencia de escape de carácter no reconocida
+  Source.cpp
+C:\Users\W10\Downloads\Act_fechas-master\Act_fechas-master\Act_fechas\Fechas.h(76,13): warning C4129: 'm': secuencia de escape de carácter no reconocida
+C:\Users\W10\Downloads\Act_fechas-master\Act_fechas-master\Act_fechas\Fechas.h(79,13): warning C4129: 'm': secuencia de escape de carácter no reconocida
+C:\Users\W10\Downloads\Act_fechas-master\Act_fechas-master\Act_fechas\Source.cpp(7,12): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  Generando código...
+  Act_fechas.vcxproj -> C:\Users\W10\Downloads\Act_fechas-master\Act_fechas-master\x64\Debug\Act_fechas.exe
